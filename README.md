@@ -1,4 +1,4 @@
-#___Hello. It's my github account___
+# ___Hello. It's my github account___
  ## Зачем я это сделал?
  1. Меня заставил Дима
  2. Мне стало интересно, что такое гитхаб
@@ -26,6 +26,8 @@ void loop() {
 > Мои друзья дебилы и их не поменять
 > Мои друзья дебилы, дебилы навсегда
 > Но так как я и сам такой, то это не беда.
+
+![Gitlab logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/GitLab_Logo.svg/1200px-GitLab_Logo.svg.png)
 
 
 
