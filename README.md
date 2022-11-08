@@ -28,7 +28,10 @@ void loop() {
 > Мои друзья дебилы, дебилы навсегда
 > Но так как я и сам такой, то это не беда.
 
-![Gitlab logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/GitLab_Logo.svg/1200px-GitLab_Logo.svg.png)
+![Gitlab logo]([https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/GitLab_Logo.svg/1200px-GitLab_Logo.svg.png](https://gernotklingler.com/blog/icons/github.svg))
+
+
+
 
 
 
